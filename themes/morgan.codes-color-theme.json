@@ -4,7 +4,7 @@
 	"colors": {
 		// Editor
 		"editor.background": "#111111",
-		"editor.foreground": "#ff8b56",
+		"editor.foreground": "#eff8ff",
 		"editor.selectionBackground": "#4d4d4d5b",
 
 		// Activity bar
